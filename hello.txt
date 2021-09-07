@@ -1,2 +1,3 @@
-#이름: 
+#이름: 2019182045 ghddPSk
+
 print ("Hello")
